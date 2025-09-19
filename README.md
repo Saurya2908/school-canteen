@@ -1,5 +1,4 @@
 # School Canteen — Express + Mongoose Prototype
-# School Canteen — Express + Mongoose Prototype
 
 This repository contains a small prototype backend to manage school canteen snack orders. It demonstrates use of Mongoose middleware hooks:
 
