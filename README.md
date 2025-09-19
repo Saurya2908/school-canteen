@@ -24,7 +24,7 @@ mongod --dbpath /path/to/your/db
 npm run dev
 # or
 npm start
-
+```
 
 ## 📌 API Endpoint Summary
 
